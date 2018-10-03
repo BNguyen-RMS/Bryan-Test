@@ -12,7 +12,7 @@ namespace WriteHello
         static void Main()
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World! from develop branch");
+            Console.WriteLine("Hello World! from the develop branch");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
