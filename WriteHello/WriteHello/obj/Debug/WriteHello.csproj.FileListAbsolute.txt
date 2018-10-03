@@ -1,0 +1,6 @@
+c:\users\bnguyen\documents\visual studio 2015\Projects\WriteHello\WriteHello\bin\Debug\WriteHello.exe.config
+c:\users\bnguyen\documents\visual studio 2015\Projects\WriteHello\WriteHello\bin\Debug\WriteHello.exe
+c:\users\bnguyen\documents\visual studio 2015\Projects\WriteHello\WriteHello\bin\Debug\WriteHello.pdb
+c:\users\bnguyen\documents\visual studio 2015\Projects\WriteHello\WriteHello\obj\Debug\WriteHello.csprojResolveAssemblyReference.cache
+c:\users\bnguyen\documents\visual studio 2015\Projects\WriteHello\WriteHello\obj\Debug\WriteHello.exe
+c:\users\bnguyen\documents\visual studio 2015\Projects\WriteHello\WriteHello\obj\Debug\WriteHello.pdb
